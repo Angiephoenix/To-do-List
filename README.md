@@ -1,4 +1,4 @@
-# 👉🏼 <a href="https://friendly-babka-7dac4e.netlify.app/">To-Do List</a>
+# ➡️ <a href="https://friendly-babka-7dac4e.netlify.app/">To-Do List</a>
 This basic web-based to-do list application allows users to manage tasks. The application offers various functionalities for adding, deleting, and searching tasks effortlessly.
 
 ## Features
